@@ -153,12 +153,12 @@ st.markdown("<div class='pandas'><div class='panda'>🐼</div><div class='panda'
 st.markdown(
     """
     <div class="letter">
-        <h2 style="text-align: center;">For My Love Ipek... 💌</h2>
-        <p>My dearest Ipek,</p>
-        <p>Every moment with you feels like a dream come true. Your smile brightens my darkest days, and your laugh is the sweetest melody I've ever heard.</p>
-        <p>You are my sunshine, my heart, my everything. I cherish every second we spend together and look forward to creating countless more beautiful memories.</p>
-        <p>Thank you for being the amazing person you are. I fall in love with you more and more each day.</p>
-        <p style="margin-top: 2rem; font-style: italic; text-align: right;">Forever yours,<br>Zaka</p>
+        <h2 style="text-align: center; color: #ff66b2;">For My Love Ipek... 💌</h2>
+        <p style="color: #ff66b2;">My dearest Ipek,</p>
+        <p style="color: #ff66b2;">Every moment with you feels like a dream come true. Your smile brightens my darkest days, and your laugh is the sweetest melody I've ever heard.</p>
+        <p style="color: #ff66b2;">You are my sunshine, my heart, my everything. I cherish every second we spend together and look forward to creating countless more beautiful memories.</p>
+        <p style="color: #ff66b2;">Thank you for being the amazing person you are. I fall in love with you more and more each day.</p>
+        <p style="margin-top: 2rem; font-style: italic; text-align: right; color: #ff66b2;">Forever yours,<br>Zarkan</p>
     </div>
     """, 
     unsafe_allow_html=True
