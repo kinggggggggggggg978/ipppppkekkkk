@@ -150,21 +150,19 @@ st.markdown("<p style='text-align: center; color: white;'>Since January 27, 2024
 st.markdown("<div class='pandas'><div class='panda'>🐼</div><div class='panda'>🐼</div><div class='panda'>🐼</div></div>", unsafe_allow_html=True)
 
 # Sweet letter
-st.markdown("""
-<div class="letter">
-    <h2 style="text-align: center;">For My Love Ipek... 💌</h2>
-    
-    <p>My dearest Ipek,</p>
-    
-    <p>Every moment with you feels like a dream come true. Your smile brightens my darkest days, and your laugh is the sweetest melody I've ever heard.</p>
-    
-    <p>You are my sunshine, my heart, my everything. I cherish every second we spend together and look forward to creating countless more beautiful memories.</p>
-    
-    <p>Thank you for being the amazing person you are. I fall in love with you more and more each day.</p>
-    
-    <p style="margin-top: 2rem; font-style: italic; text-align: right;">Forever yours,<br>[Your Name]</p>
-</div>
-""", unsafe_allow_html=True)
+st.markdown(
+    """
+    <div class="letter">
+        <h2 style="text-align: center;">For My Love Ipek... 💌</h2>
+        <p>My dearest Ipek,</p>
+        <p>Every moment with you feels like a dream come true. Your smile brightens my darkest days, and your laugh is the sweetest melody I've ever heard.</p>
+        <p>You are my sunshine, my heart, my everything. I cherish every second we spend together and look forward to creating countless more beautiful memories.</p>
+        <p>Thank you for being the amazing person you are. I fall in love with you more and more each day.</p>
+        <p style="margin-top: 2rem; font-style: italic; text-align: right;">Forever yours,<br>Zaka</p>
+    </div>
+    """, 
+    unsafe_allow_html=True
+)
 
 # Add a little footer
 st.markdown("<p style='text-align: center; margin-top: 50px; color: white;'>Made with ❤️ just for you</p>", unsafe_allow_html=True)
